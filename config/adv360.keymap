@@ -106,7 +106,7 @@
             #binding-cells = <0>;
             bindings = <&mosl 2 2>, <&tog 2>;
 
-            tapping-term-ms = <100>;
+            tapping-term-ms = <175>;
         };
     };
 
