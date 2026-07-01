@@ -105,9 +105,9 @@
 
         altf4 {
             bindings = <&kp LA(F4)>;
-            key-positions = <34 39>;
+            key-positions = <33 40>;
             layers = <0 2>;
-            timeout-ms = <100>;
+            timeout-ms = <50>;
         };
     };
 
