@@ -127,7 +127,8 @@
             bindings = <&kp LA(F4)>;
             key-positions = <33 40>;
             layers = <0 2>;
-            timeout-ms = <10>;
+            timeout-ms = <50>;
+            require-prior-idle-ms = <175>;
         };
     };
 
