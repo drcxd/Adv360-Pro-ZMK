@@ -62,8 +62,6 @@
             label = "F56";
             #binding-cells = <0>;
             bindings = <&kp F5>, <&kp F6>;
-
-            tapping-term-ms = <100>;
         };
 
         f9ps: f9ps {
@@ -71,8 +69,6 @@
             label = "F9PS";
             #binding-cells = <0>;
             bindings = <&kp F9>, <&kp PRINTSCREEN>;
-
-            tapping-term-ms = <100>;
         };
 
         homef7: homef7 {
