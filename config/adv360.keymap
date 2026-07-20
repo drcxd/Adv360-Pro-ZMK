@@ -135,8 +135,8 @@
             display-name = "Base";
             bindings = <
 &kp EQUAL  &kp N1             &kp N2           &kp N3           &kp N4               &kp N5  &tog 1                                                          &mo 3      &kp N6  &kp N7                &kp N8            &kp N9            &kp N0                      &kp MINUS
-&kp TAB    &kp Q              &kp W            &kp E            &kp R                &kp T   &kp F5                                                          &kp F7     &kp Y   &kp U                 &kp I             &kp O             &kp P                       &kp BSLH
-&kp ESC    &hrl LEFT_SHIFT A  &hrl LEFT_GUI S  &hrl LEFT_ALT D  &hrl LEFT_CONTROL F  &kp G   &kp F6         &kp F10     &kp F11       &kp LA(F4)  &f9ps      &kp F8     &kp H   &hrr RIGHT_CONTROL J  &hrr RIGHT_ALT K  &hrr RIGHT_GUI L  &hrr RIGHT_SHIFT SEMICOLON  &kp SQT
+&kp TAB    &kp Q              &kp W            &kp E            &kp R                &kp T   &kp F10                                                         &kp F7     &kp Y   &kp U                 &kp I             &kp O             &kp P                       &kp BSLH
+&kp ESC    &hrl LEFT_SHIFT A  &hrl LEFT_GUI S  &hrl LEFT_ALT D  &hrl LEFT_CONTROL F  &kp G   &kp F11        &kp F5      &kp F6        &kp LA(F4)  &f9ps      &kp F8     &kp H   &hrr RIGHT_CONTROL J  &hrr RIGHT_ALT K  &hrr RIGHT_GUI L  &hrr RIGHT_SHIFT SEMICOLON  &kp SQT
 &kp LSHFT  &kp Z              &kp X            &kp C            &kp V                &kp B                              &kp HOME      &kp PG_UP                         &kp N   &kp M                 &kp COMMA         &kp DOT           &kp FSLH                    &kp RIGHT_SHIFT
 &mosltog   &kp GRAVE          &kp CAPS         &kp LEFT         &kp RIGHT                    &kp BACKSPACE  &kp DELETE  &kp END       &kp PG_DN   &kp ENTER  &kp SPACE          &kp UP                &kp DOWN          &kp LBKT          &kp RBKT                    &mosltog
             >;
