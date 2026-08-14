@@ -11,11 +11,7 @@
     quick-release;
 };
 
-&sl {
-    release-after-ms = <3000>;
-
-    /delete-property/ quick-release;
-};
+&sl { release-after-ms = <3000>; };
 
 &lt { require-prior-idle-ms = <150>; };
 
